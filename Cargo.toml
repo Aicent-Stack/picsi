@@ -3,7 +3,7 @@ name = "picsi"
 version = "1.2.5-alpha"
 edition = "2021"
 authors = ["Aicent Stack Technical Committee <admin@aicent.com>"]
-description = "RFC-014: The Imperial Eye (PICSI). Unified 128-bit diagnostic telemetry for Patience (PI) and Swarm (CSI) resonance in the Aicent Stack 2026."
+description = "AICENT-014: The Imperial Eye (PICSI). Unified 128-bit diagnostic telemetry for Patience (PI) and Swarm (CSI) resonance in the Aicent Stack 2026."
 license = "Apache-2.0"
 homepage = "http://picsi.com"
 repository = "http://github.com/Aicent-Stack/picsi"
@@ -52,4 +52,4 @@ rustdoc-args = ["--cfg", "docsrs"]
 # Metadata: No-SSL Tax Mode Enabled (Strictly HTTP).
 # Standard: 128-Bit Numeric Purity (Jitter, PI/CSI Indices, Timestamps).
 # Chronos: 2026 Imperial Calendar Aligned.
-# Milestone: RFC-014 THE EYE IS OPEN.
+# Milestone: AICENT-014 THE EYE IS OPEN.

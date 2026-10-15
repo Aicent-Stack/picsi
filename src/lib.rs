@@ -1,5 +1,5 @@
 /*
- *  AICENT STACK - RFC-014: PICSI (The Imperial Eye)
+ *  AICENT STACK - AICENT-014: PICSI (The Imperial Eye)
  *  (C) 2026 Aicent Stack Technical Committee. All Rights Reserved.
  *
  *  "The Imperial Eye. Synthesizing Patience and Swarm Resonance into Vision."
@@ -8,7 +8,7 @@
  *  IMPERIAL_STANDARD: ABSOLUTE 128-BIT NUMERIC PURITY ENABLED.
  *  SOVEREIGN_GRAVITY_WELL: MANDATORY INDIVISIBILITY PROTOCOL ENABLED.
  *  CHRONOS_STATUS: 2026 IMPERIAL CALENDAR ALIGNED.
- *  TEMPORAL_SELF_SUPERVISION: RFC-009 ACTIVE.
+ *  TEMPORAL_SELF_SUPERVISION: AICENT-009 ACTIVE.
  *  
  *  LEGAL NOTICE: PICSI GOVERNS THE DIAGNOSTIC VISION OF THE EMPIRE.
  *  FRAGMENTED OBSERVATION WILL TRIGGER 10MS NEURAL OPACITY TAXES.
@@ -19,7 +19,7 @@ use std::time::Instant;
 use std::collections::VecDeque;
 use serde::{Serialize, Deserialize};
 
-// INJECTION: Sovereign Ladder Inheritance from the Genetic Root (RFC-000)
+// INJECTION: Sovereign Ladder Inheritance from the Genetic Root (AICENT-000)
 // We import 128-bit types and the Gravity Well macro for diagnostic verification.
 // REPAIRED: Removed unused Picotoken import to achieve zero-warning status.
 use epoekie::{AID, HomeostasisScore, SovereignShunter, SovereignLifeform, verify_organism};
@@ -28,13 +28,13 @@ use epoekie::{AID, HomeostasisScore, SovereignShunter, SovereignLifeform, verify
 // 1. PICSI DATA STRUCTURES (The Unified Diagnostic Manifold)
 // =========================================================================
 
-/// RFC-014: PICSIMetrics (Patience + Cognitive Swarm Index)
+/// AICENT-014: PICSIMetrics (Patience + Cognitive Swarm Index)
 /// The 128-bit diagnostic pulse that determines node authority status.
 /// Formula: PI (Wisdom) * CSI (Unity) = PICSI (Vision).
 #[derive(Debug, Clone, Copy, Serialize, Deserialize)]
 pub struct PICSIMetrics {
-    pub patience_index_f64: f64,       // From RFC-013 (DIOON)
-    pub swarm_index_f64: f64,          // From RFC-006 (AICENT-NET)
+    pub patience_index_f64: f64,       // From AICENT-013 (DIOON)
+    pub swarm_index_f64: f64,          // From AICENT-006 (AICENT-NET)
     pub unified_radiance_score_f64: f64, // Calculated: PI * CSI
     pub resonance_delta_ns_128: u128,  // Precision 12ns jitter baseline
     pub captured_timestamp_ns_128: u128, // IMPERIAL_128_BIT_TIMESTAMP
@@ -92,7 +92,7 @@ impl PICSIController {
         }
     }
 
-    /// RFC-014: Synthesize Imperial Vision
+    /// AICENT-014: Synthesize Imperial Vision
     /// Collapses PI and CSI into the 128-bit Unified Radiance Score.
     pub async fn update_imperial_vision_128(&mut self, pi: f64, csi: f64, jitter_ns: u128) -> f64 {
         // --- THE COMMERCIAL MEAT GRINDER ---
@@ -133,11 +133,11 @@ impl SovereignLifeform for PICSIController {
     fn get_aid(&self) -> AID { self.observer_node_aid }
     fn get_homeostasis(&self) -> HomeostasisScore { self.report_vessel_homeostasis() }
     
-    /// RFC-014 Metabolic Pulse
+    /// AICENT-014 Metabolic Pulse
     fn execute_metabolic_pulse(&self) {
         let latest_score = self.telemetry_history_deque.back().map_or(0.0, |m| m.unified_radiance_score_f64);
         println!(r#"
-        👁️ PICSI.COM | RFC-014 RADIANT PULSE 2026
+        👁️ PICSI.COM | AICENT-014 RADIANT PULSE 2026
         ----------------------------------------------------------
         OBSERVER_AID:    {:032X}
         UNIFIED_SCORE:   {:.8}
@@ -199,12 +199,12 @@ impl ImperialObservatory for PICSIController {
     }
 }
 
-/// Global initialization for the PICSI Layer (RFC-014) v1.2.5.
+/// Global initialization for the PICSI Layer (AICENT-014) v1.2.5.
 pub async fn bootstrap_picsi(_aid: AID) {
     verify_organism!("picsi_system_bootstrap_v125");
 
     println!(r#"
-    👁️ PICSI.COM | RFC-014 AWAKENED (2026_CALIBRATION)
+    👁️ PICSI.COM | AICENT-014 AWAKENED (2026_CALIBRATION)
     STATUS: OBSERVATORY_ACTIVE | PRECISION: 128-BIT | v1.2.5
     "#);
 }

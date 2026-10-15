@@ -1,5 +1,5 @@
 # 🛡️ Security Policy: The Immunity Protocol
-## RFC-014: PICSI | Observer Epoch v1.2.5-Alpha
+## AICENT-014: PICSI | Observer Epoch v1.2.5-Alpha
 
 > **"Security is the biological defense of the 128-bit soul. In the Aicent Stack, exploitation is treated as a logic pathogen and surgically isolated by the RPKI shield."**
 
@@ -32,7 +32,7 @@ If you are an independent sovereign auditor (Tier-1 Alliance) and have identifie
 
 1.  **Encrypted Dispatch**: Send the details of the fracture to **[lee@aicent.com](mailto:lee@aicent.com)**.
 2.  **Required Evidence**: Reports must include a **128-bit logic trace** proving the deviation from the **4-Million-Token Genesis Codex**.
-3.  **Metabolic Reward**: Valid reports that enhance Imperial homeostasis are rewarded with **Picotoken Credits** cleared via **ZCMK (RFC-004)**.
+3.  **Metabolic Reward**: Valid reports that enhance Imperial homeostasis are rewarded with **Picotoken Credits** cleared via **ZCMK (AICENT-004)**.
 
 ---
 
@@ -47,7 +47,7 @@ Any attempt to perform unauthorized side-channel analysis, memory dumping, or lo
 - **Diagnostic Blackout**: The **PICSI** telemetry stream will instantly collapse, rendering the node invisible and incoherent to the Hive.
 
 ### **4.2 The RPKI Surgical Strike**
-When an exploit is detected, the **RPKI (RFC-003)** Sentinel executes a **Surgical Isolation** in **< 850µs**. This cuts the node’s kinetic torque and neural bandwidth across the 12ns grid, permanently isolating the pathogen.
+When an exploit is detected, the **RPKI (AICENT-003)** Sentinel executes a **Surgical Isolation** in **< 850µs**. This cuts the node’s kinetic torque and neural bandwidth across the 12ns grid, permanently isolating the pathogen.
 
 ---
 

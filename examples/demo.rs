@@ -1,5 +1,5 @@
 /*
- *  AICENT STACK - RFC-014: PICSI (The Imperial Eye)
+ *  AICENT STACK - AICENT-014: PICSI (The Imperial Eye)
  *  (C) 2026 Aicent Stack Technical Committee. All Rights Reserved.
  *
  *  "Demonstrating Unified Diagnostic Vision and Resonance Synthesis."
@@ -39,8 +39,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     // 3. Simulate Unified Radiance Synthesis
     // Synthesizing Wisdom (PI) and Unity (CSI) into Imperial Vision.
-    let simulated_pi = 0.999994;  // From RFC-013
-    let simulated_csi = 0.999912; // From RFC-006
+    let simulated_pi = 0.999994;  // From AICENT-013
+    let simulated_csi = 0.999912; // From AICENT-006
     let current_jitter = 12u128;   // 12ns Imperial Constant
 
     println!("[PROCESS] Synthesizing 128-bit Unified Radiance Score...");
@@ -89,6 +89,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("Total Obs:        {}", eye.total_observations_count_128);
     println!("Opacity Tax:      {:.2}%", hs.entropy_tax_rate * 100.0);
 
-    println!("\n[FINISH] RFC-014 Demonstration complete. The Empire Sees All.");
+    println!("\n[FINISH] AICENT-014 Demonstration complete. The Empire Sees All.");
     Ok(())
 }
