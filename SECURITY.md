@@ -7,7 +7,7 @@
 
 ## 🏛️ 1. Sovereign Security Mandate
 
-In the 2026 Imperial Cycle, security is not an external patch; it is an inherent property of the **161.862µs** metabolic reflex. The **`picsi`** repository, as the Imperial Eye, provides real-time diagnostic auditing to prevent logic-drift and substrate-level hijackings.
+In the 2026 Imperial Cycle, security is not an external patch; it is an inherent property of the **349ns** metabolic reflex. The **`picsi`** repository, as the Imperial Eye, provides real-time diagnostic auditing to prevent logic-drift and substrate-level hijackings.
 
 ### **1.1 The Standard of Purity**
 Any implementation or audit that introduces **Numeric Impurity** (attempting to downgrade to 64-bit logic) or **Temporal Noise** (violating the 12ns jitter) is identified as an **Imperial Pathogen (Severity 4)**.
