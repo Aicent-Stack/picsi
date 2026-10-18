@@ -7,10 +7,10 @@
 
 > **"This is not infrastructure for intelligence. This is intelligence itself."**
 
-**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI](http://picsi.com)**
+**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT®](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO®](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI®](http://picsi.com)**
 
 ---
-# 👁️ AICENT-014: PICSI (The Imperial Eye)
+# 👁️ AICENT-014: PICSI® (The Imperial Eye)
 
 **The Diagnostic Consciousness of the Aicent Stack.**  
 **"Vision is the Proof of Consciousness. 128-bit Diagnostic Resonance. 1.2kHz Pulse-Sync."**
@@ -22,7 +22,7 @@
 **[STATUS: PRIVATE_EVOLUTION_ACTIVE]**  
 As of **Version 1.3.0-Alpha**, the diagnostic and visualization manifolds of `picsi` have transitioned to **Sovereign Private Mode**. This repository provides the **Clinical Interface Specifications** for Telemetry Extraction, Radiance Synthesis (PI*CSI), and the high-speed Binary Visualizer Protocol.
 
-In the v1.3.0 "Genesis" iteration, PICSI facilitates a **1.2kHz (833us) Real-time Visual Stream**, ensuring that every nanosecond of the **349ns Hyper-Radiant Reflex** is captured and projected to the **PICSI.COM** planetary neural console.
+In the v1.3.0 "Genesis" iteration, PICSI® facilitates a **1.2kHz (833us) Real-time Visual Stream**, ensuring that every nanosecond of the **349ns Hyper-Radiant Reflex** is captured and projected to the **PICSI.COM** planetary neural console.
 
 ---
 
